@@ -5,6 +5,8 @@ This python script provides the tools to conduct a Bayesian evaluation of a sing
 
 The first version of this repository is the code provided as an Annex in the aforementionned article. It is update as new results become available and I have time to make the code more accessible. This is not my dayjob. If you are missing a feature and feel that updating intervals are too long, feel fre to develop it yourself.
 
+The xlsx-files are provided as an example data-set. They are the data sets used in the article.
+
 ## Disclaimer
 If you use this code for expertise in a court case, be aware that it is your responsability that the code works as intended and is adapted to the problem you aim to solve. I accept no liability for damages caused by using this code.
 I'm no programmer. I refuse all liability for mental unease, heart problems or psychic damage caused by inefficient and bad coding.
