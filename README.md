@@ -9,10 +9,10 @@ The first version of this repository is the code provided as an Annex in the afo
 If you use this code for expertise in a court case, be aware that it is your responsability that the code works as intended and is adapted to the problem you aim to solve. I accept no liability for damages caused by using this code.
 I'm no programmer. I refuse all liability for mental unease, heart problems or psychic damage caused by inefficient and bad coding.
 
-##Functionality
+## Functionality
 TBD
 
-##Use
+## Use
 TBD
 
-##References
+## References
