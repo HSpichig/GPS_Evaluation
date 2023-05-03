@@ -3,7 +3,7 @@ Script for conducting a Bayesian evaluation of a single point location data reco
 
 This python script provides the tools to conduct a Bayesian evaluation of a single point localisation as described in the article *A Likelihood Ratio Approach for the Evaluation of Single Point Device Locations* presented at DFRWS EU 2023 and published here: https://www.sciencedirect.com/science/article/pii/S2666281723000136
 
-The first version of this repository is the code provided as an Annex in the aforementionned article. It is update as new results become available and when I have time to make the code more accessible. This is not my dayjob. If you are missing a feature and feel that updating intervals are too long, feel fre to develop it yourself.
+The first version of this repository is the code provided as an Annex to the aforementionned article. It is update as new results become available and when I have time to make the code more accessible. This is not my dayjob. If you are missing a feature and feel that updating intervals are too long, feel free to develop it yourself.
 
 The xlsx-files are provided as an example data-set. They are the data sets used in the article.
 
