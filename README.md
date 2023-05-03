@@ -21,8 +21,7 @@ Probability values are outputted to SDTOUT.
 Start by reading the article discussing the approach and make sure you understand the concept.
 Then gather reference data at both your locations.
 
-In the current version, you have to modify the code to provide it with the requisite values. This will be updated shortly.
-I recommend using an IDE to do this.
+The tool works through a primitive User Interface using the terminology of the article.
 
 ## References
 Spichiger, H., 2023. A likelihood ratio approach for the evaluation of single point device locations. Forensic Science International: Digital Investigation, Proceedings of the Tenth Annual DFRWS EU Conference 44, 301512. https://doi.org/10.1016/j.fsidi.2023.301512
