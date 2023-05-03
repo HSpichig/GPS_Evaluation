@@ -15,7 +15,7 @@ I'm no programmer. I refuse all liability for mental unease, heart problems or p
 The code requires coordinates of the locations specified in propositions P1 and P2, as well as the locations of the made observation E.
 Reference measurements can be provided as a cellebrite locations output.
 The code provides a scatter plot of all available data and histograms of the data within the observed wedge.
-Probability values are outputted to SDTOUT.
+Outuputs are written to files in a specified folder.
 
 ## Use
 Start by reading the article discussing the approach and make sure you understand the concept.
